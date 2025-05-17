@@ -40,10 +40,8 @@ The goal of this project is to understand how both techniques can be used to est
 
 ## 📁 Project Structure
 ```
-├── bootstrap_jackknife.py  # Main code
+├── BootStrap_and_JackKnife.ipynb  # Main code
 ├── README.md                # Documentation
-├── requirements.txt         # (Optional) Required libraries
-└── output_visuals/          # (Optional) Folder to save graphical results
 ```
 
 ---
